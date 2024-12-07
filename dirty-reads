@@ -30,10 +30,10 @@
         <mxCell id="Sd0iS26DZn9So5dMOQ5W-5" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_mini_2;" parent="1" vertex="1">
           <mxGeometry x="60" y="100" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Sd0iS26DZn9So5dMOQ5W-7" value="Transaction T1" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="Sd0iS26DZn9So5dMOQ5W-7" value="&lt;font face=&quot;Verdana&quot;&gt;Transaction T1&lt;/font&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="180" y="120" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sd0iS26DZn9So5dMOQ5W-8" value="Transaction T2" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="Sd0iS26DZn9So5dMOQ5W-8" value="&lt;font face=&quot;Verdana&quot;&gt;Transaction T2&lt;/font&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="-140" y="120" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sd0iS26DZn9So5dMOQ5W-10" value="" style="endArrow=classic;rounded=0;labelBorderColor=none;curved=0;strokeColor=default;fontColor=default;html=1;labelBackgroundColor=none;fontFamily=Times New Roman;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontStyle=0" parent="1" edge="1">
